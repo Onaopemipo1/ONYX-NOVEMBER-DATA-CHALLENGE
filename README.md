@@ -30,6 +30,14 @@ Using Microsoft Excel, i had to check for any erros or any missing values, but t
 
 ## 5.0 Data Visualization
 Having Loaded the Cleaned Dataset from Excel into Microsoft PowerBi, i decided to extract some key insights using card visuals and also use some charts to help portray results well. I was able to gather some nice insights which would be show in the dashboard below. 
+![](Onyx1.png)
+
+![](Onyx2.png)
+
+![](Onyx3.png)
+
+![](Onyx4.png)
+
 
 ## 6.0 Insights
 6.1 -*We can see that the Total Revenue gottem was 578k Indian Rupees, Total Cost incurred was 53K Indian Rupees, Total Stock Levels was 4,777, Total Shipping Costs was 555 Indian rupees, Total Products Sold was 46k, Average Shipping Time was 5.75, Average Price is 49 Indian Rupee, Average Defect rates is 227.7%, Average Lead Time is 32, Total No of Orders is 100.*
